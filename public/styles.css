@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.table-content{
+    font-size: x-large;
+    border: 2px solid green;
+    border-radius:6px;
+    -moz-border-radius:6px;
+    font-family:'Ubuntu', sans-serif;
+    text-align: center;
+    margin: 10px auto 0 auto;
+    width: 80%;
+    border-collapse: separate;
+    border-spacing: 0;
+    min-width: 900px;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #ccc;
+ }
+
+.table-content td,th{
+    padding: 1rem;
+}
+
+.table-content th{
+    background-color: rgb(155, 241, 241);
+}

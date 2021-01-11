@@ -1,0 +1,24 @@
+2781 - USD
+2796 - INR
+
+1    - BTC
+2    - LTC
+1027 - ETH
+825  - USDT
+52   - XRP
+6636 - DOT
+2010 - ADA
+2469 - ZIL
+4030 - ALGO
+1972 - LINK
+1839 - BNB
+328  - XMR
+3077 - VET
+7083 - UNI
+2586 - SNX
+3794 - ATOM
+313  - DASH
+2416 - THETA
+3822 - TFUEL
+
+https://api.nomics.com/v1/currencies/ticker?key=c868b7c88d4aa5fbc7a106a649b809a1&ids=BTC,LTC,ETH,USDT,XRP,DOT,ADA,ZIL,ALGO,LINK,BNB,XMR,VET,UNI,SNX,ATOM,DASH,THETA,TFUEL&interval=1h,1d,30d&sort=rank
